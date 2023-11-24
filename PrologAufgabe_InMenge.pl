@@ -1,0 +1,2 @@
+inMenge(Y, Menge).
+
